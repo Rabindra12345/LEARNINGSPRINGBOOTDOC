@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:date>2023-01-25T21:22:00.432258659</dc:date><meta:editing-duration>PT29M4S</meta:editing-duration><meta:editing-cycles>14</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="13" meta:paragraph-count="193" meta:word-count="3545" meta:character-count="23181" meta:non-whitespace-character-count="19584"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">131025</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">32863</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">13654</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">17463</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">138319</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">131025</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">32861</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">144678</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">245012</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">245012</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Mono CJK SC" svg:font-family="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
+  <style:font-face style:name="S hne" svg:font-family="&apos;S hne&apos;, ui-sans-serif, system-ui, apple-system, &apos;Segoe UI&apos;, Roboto, Ubuntu, Cantarell, &apos;Noto Sans&apos;, sans-serif, &apos;Helvetica Neue&apos;, Arial, &apos;Apple Color Emoji&apos;, &apos;Segoe UI Emoji&apos;, &apos;Segoe UI Symbol&apos;, &apos;Noto Color Emoji&apos;"/>
+  <style:font-face style:name="Times new roman" svg:font-family="&apos;Times new roman&apos;" style:font-family-generic="roman"/>
+  <style:font-face style:name="Ubuntu" svg:font-family="Ubuntu" style:font-pitch="variable"/>
+  <style:font-face style:name="aakar" svg:font-family="aakar" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:language="zxx" fo:country="none" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Noto Sans Mono CJK SC" style:font-family-asian="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Source_20_Text" style:display-name="Source Text" style:family="text">
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Noto Sans Mono CJK SC" style:font-family-asian="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="18pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="0003bd14" officeooo:paragraph-rsid="0003bd14" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Ubuntu"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#224b12" loext:opacity="100%" style:font-name="Ubuntu" fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#224b12" loext:opacity="100%" style:font-name="Ubuntu" fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0003bd14"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties style:font-name="Times new roman"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="14pt" officeooo:rsid="0003bd14" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="0003bd14"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:color="#224b12" loext:opacity="100%" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:color="#224b12" loext:opacity="100%" fo:font-weight="bold" officeooo:rsid="0003bd14" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:color="#224b12" loext:opacity="100%" fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:color="#224b12" loext:opacity="100%" fo:font-size="16pt" fo:font-weight="bold" officeooo:rsid="0003bd14" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#d1d5db" loext:opacity="100%" style:font-name="Times new roman" fo:font-size="14pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0003bd14" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#d1d5db" loext:opacity="100%" style:font-name="S hne" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0003bd14" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#d1d5db" loext:opacity="100%" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0003bd14" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#d1d5db" loext:opacity="100%" style:font-name="Ubuntu" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0003bd14" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#d1d5db" loext:opacity="100%" style:font-name="Ubuntu" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0003bd14"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#d1d5db" loext:opacity="100%" style:font-name="Ubuntu" fo:font-size="16pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0003bd14" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#d1d5db" loext:opacity="100%" style:font-name="Ubuntu" fo:font-size="16pt" fo:letter-spacing="normal" fo:font-style="normal" officeooo:rsid="0003bd14" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#d1d5db" loext:opacity="100%" style:font-name="Ubuntu" fo:font-size="16pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="0003bd14" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:font-name="Ubuntu" fo:font-size="16pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="0003bd14" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:font-name="Ubuntu" fo:font-size="16pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="0003bd14" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1e6a39" loext:opacity="100%" style:font-name="Ubuntu" fo:font-size="16pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="0003bd14" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.2961in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.7882in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2807in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.7728in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.2654in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.7579in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.25in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.7425in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.2346in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.7272in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P5"><text:span text:style-name="T9">C</text:span><text:span text:style-name="T8">onfusions related to SpringBoot’s stuffs:</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T11"/></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T11">Q. Are</text:span><text:span text:style-name="T10"> data jpa and rest jpa two different techonology or thing in springboot world ?</text:span></text:p>
+   <text:p text:style-name="P10">Data JPA and REST JPA are both related to Spring Boot, but they are different things.</text:p>
+   <text:p text:style-name="P8">Data JPA is a library that provides a simple and efficient way to interact with a database using the Java Persistence API (JPA). It is built on top of the Spring Framework and provides many features that simplify the development of database-based applications, such as automatic generation of SQL statements and support for pagination and sorting.</text:p>
+   <text:p text:style-name="P8">REST JPA, on the other hand, is not a specific technology but rather a way of using Data JPA to expose the database operations as a RESTful web service. This can be achieved by using Spring Boot&apos;s built-in support for RESTful web services, and by adding JPA repositories to the application. This will automatically expose the database entities through REST endpoints and allow to perform CRUD operations on them.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. C</text:span>an we define custom method for jpa repository spring boot ?</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Yes, it is possible to define custom methods for JPA repositories in Spring Boot. JPA repositories are interfaces that extend the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">org.springframework.data.jpa.repository.JpaRepository</text:span></text:span><text:span text:style-name="T3"> interface, which provides a set of common methods for interacting with a database, such as find, save, and delete.</text:span></text:p>
+   <text:p text:style-name="P8">To define custom methods, you can create a new interface that extends JpaRepository and add your own methods. Spring Data JPA will then implement these methods at runtime by generating the appropriate SQL statements.</text:p>
+   <text:p text:style-name="P8">Here&apos;s an example:</text:p>
+   <text:p text:style-name="P1">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">public interface UserRepository extends JpaRepository&lt;User, Long&gt; {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="2"/>List&lt;User&gt; findByLastName(String lastName);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">}</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">In this example, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">findByLastName</text:span></text:span><text:span text:style-name="T3"> is a custom method that will be automatically implemented by Spring Data JPA at runtime. The generated SQL statement will be like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">SELECT * FROM User WHERE last_name = ?</text:span></text:span><text:span text:style-name="T3">.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">You can also use keywords like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">findBy</text:span></text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">And</text:span></text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Or</text:span></text:span><text:span text:style-name="T3"> to implement custom methods. </text:span><text:soft-page-break/><text:span text:style-name="T3">Spring Data JPA will automatically interpret these keywords and generate the appropriate SQL statements.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">It&apos;s also possible to define more complex custom queries using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">@Query</text:span></text:span><text:span text:style-name="T3"> annotation. This allows you to specify the exact SQL statement that should be executed.</text:span></text:p>
+   <text:p text:style-name="P1">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">@Query(&quot;SELECT u FROM User u WHERE u.firstName = :firstName AND u.lastName = :lastName&quot;)</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">User findByFirstNameAndLastName(@Param(&quot;firstName&quot;) String firstName, @Param(&quot;lastName&quot;) String lastName);</text:span></text:span></text:p>
+   <text:p text:style-name="P8">This way you can define custom methods and customize your JPA repositories as per your requirement.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. A</text:span>nd for such case do we need to have custom implementation code or not ?</text:p>
+   <text:p text:style-name="P8">No, you do not need to provide a custom implementation for the methods you define in your JPA repository interface. Spring Data JPA will automatically generate the implementation at runtime based on the method name and the parameters.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">For example, when you define a method like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">findByLastName(String lastName)</text:span></text:span><text:span text:style-name="T3"> in your repository interface, Spring Data JPA will automatically generate the implementation that performs a SELECT statement on the database table associated with the entity, filtering the results based on the lastName.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">It is also possible to use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">@Query</text:span></text:span><text:span text:style-name="T3"> annotation to define custom queries and specify the exact SQL statement that should be executed by the method. In this case, you don&apos;t need to provide any implementation for the method, Spring Data JPA will take care of running the query.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Additionally, you can use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">@Modifying</text:span></text:span><text:span text:style-name="T3"> annotation to create or update an entity, which will also be automatically implemented by Spring Data JPA.</text:span></text:p>
+   <text:p text:style-name="P8">Therefore, you don&apos;t need to provide any custom implementation code when defining custom methods in a JPA repository interface, Spring Data JPA will automatically generate the implementation at runtime.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. </text:span>let’s say i have ,@Query(&quot;SELECT u FROM User u WHERE u.firstName = :firstName AND u.lastName = :lastName&quot;) User findByFirstNameAndLastName(@Param(&quot;firstName&quot;) String <text:soft-page-break/>firstName, @Param(&quot;lastName&quot;) String lastName); then how does springboot know an implementation code for it ?</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">When you use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">@Query</text:span></text:span><text:span text:style-name="T3"> annotation to define a custom query for a method in a JPA repository interface, Spring Data JPA will use the query specified in the annotation to generate the implementation for the method.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">@Query</text:span></text:span><text:span text:style-name="T3"> annotation tells Spring Data JPA that the method should execute the query specified in the annotation, rather than generating a query based on the method name. The query is written using the Java Persistence Query Language (JPQL), which is similar to SQL but operates on entities rather than tables.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">@Param</text:span></text:span><text:span text:style-name="T3"> annotation is used to bind the method parameters to the query. It tells Spring Data JPA to replace the named parameter in the query with the actual value of the method parameter at runtime.</text:span></text:p>
+   <text:p text:style-name="P8">In the example you provided:</text:p>
+   <text:p text:style-name="P1">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">@Query(&quot;SELECT u FROM User u WHERE u.firstName = :firstName AND u.lastName = :lastName&quot;)</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">User findByFirstNameAndLastName(@Param(&quot;firstName&quot;) String firstName, @Param(&quot;lastName&quot;) String lastName);</text:span></text:span></text:p>
+   <text:p text:style-name="P8">The query will be executed by Spring Data JPA with the values for firstName and lastName passed as parameter to the method.</text:p>
+   <text:p text:style-name="P8">Spring Data JPA will then use the query to execute the appropriate SQL statement against the database and return the result. The result will be mapped to a User object and return as the result of the method.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">So in summary, when you use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">@Query</text:span></text:span><text:span text:style-name="T3"> annotation, Spring Data JPA uses the query specified in the annotation to generate the implementation for the method, rather than generating a query based on the method name.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. S</text:span>how me the implementation that springdata jpa use for this method ??</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">When you use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">@Query</text:span></text:span><text:span text:style-name="T3"> annotation to define a custom query for a method in a JPA repository interface, Spring Data JPA generates an implementation for the method at runtime. The implementation is based on the query specified in the annotation and the method signature.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">The generated implementation is a Java class that extends the Spring Data JPA&apos;s </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">SimpleJpaRepository</text:span></text:span><text:span text:style-name="T3"> class, which provides basic CRUD operations for the entity. </text:span><text:soft-page-break/><text:span text:style-name="T3">The generated implementation overrides the method you&apos;ve defined in your repository interface and implements the logic to execute the query and return the result.</text:span></text:p>
+   <text:p text:style-name="P8">Here&apos;s an example of how the generated implementation of the method you provided might look like:</text:p>
+   <text:p text:style-name="P1">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">public class UserRepositoryImpl extends SimpleJpaRepository&lt;User, Long&gt; </text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>implements UserRepository {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/></text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>private final EntityManager em;</text:span></text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>public UserRepositoryImpl(JpaEntityInformation&lt;User, ?&gt; entityInformation,</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="30"/>EntityManager entityManager) {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>super(entityInformation, entityManager);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>this.em = entityManager;</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>@Override</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>public User findByFirstNameAndLastName(String firstName, String lastName) {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>TypedQuery&lt;User&gt; query = em.createQuery(&quot;SELECT u FROM User u WHERE u.firstName = :firstName AND u.lastName = :lastName&quot;, User.class);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>query.setParameter(&quot;firstName&quot;, firstName);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>query.setParameter(&quot;lastName&quot;, lastName);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>return query.getSingleResult();</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">}</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">The generated implementation is creating a typed query using the JPQL you&apos;ve provided, and sets the parameters for firstName and lastName using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">setParameter</text:span></text:span><text:span text:style-name="T3"> method. The query is then executed using </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">getSingleResult</text:span></text:span><text:span text:style-name="T3"> method and return the result.</text:span></text:p>
+   <text:p text:style-name="P8">It&apos;s worth noting that this is just an example and the actual implementation may vary depending on the version of Spring Data JPA and other factors.</text:p>
+   <text:p text:style-name="P8">Keep in mind that the implementation is generated at runtime, you can&apos;t see it in the source code, but it&apos;s created and used by Spring Data JPA for executing your custom query.</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. I</text:span>s simplejparepository a class or interface ? <text:tab/><text:span text:style-name="T7">Because we know </text:span></text:p>
+   <text:p text:style-name="P10"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:width="6.6929in" svg:height="4.6382in" draw:z-index="0"><draw:image draw:mime-type="image/png">
+      <office:binary-data>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
+       hZFzRckjsrPMqUeq9LFI5IyZ8WVZuf7Zxc9ZysNQ1lm/qCmP0mzv0Pzy0aNHIztSRzdi8Xhe
+       Zo+SLInmaiOF+dUy68lf5iCCGeuJR8usKlv3Ll7H8mO/MhkX82bncSiWqeLWtYVyRvJdbijv
+       rM63PWpX7FR9zO/M1T8YD7vM5o/Pu3fvRvpLlSnbWeTDOD7vrdQ1b/zqjcbONjX5cipnfdfb
+       7Nc650qJz7dJUf4biaNlZKFbZy7pL29xRza0npF1jlQvyw/Gi7ZddYltmVJLN3lDocay/riz
+       hmp6Q0GiZvHe4n5aeLrXMHIK6q8yxDmS+Nm8QJ9nZOTYxm9646QXo92vausdxrrfTVw52Wyk
+       fNKUj+/fvz/7dV7VRm+QojfmUhu6YuvjfD4czp79rMaPt0AZScAyRq6HbB8x9O3IY2iZbKr+
+       e9VHwPi+Z+29zsCX1Dw7unp3OZKx8PqM9HSrrFnHG9nceI5XQuRrLB6X7nh4NF9jrPcuZ+GV
+       mUG0kcBWvsgZuSmGynLbuilWUt9B47dMRmPL9bNShjPb7IwXeWy7n48ctN6iwsJTPDLl7cJX
+       X7Hyob1YmLeMxIWzNeLCZVcqY8B1JsAxeefzlvz5d5Qh6uwvG63lq57xKn18nlXuDGfUZeVY
+       6vznIBRDeWs9DUG+opzN61SrvgYp4fmmJWQ2W719+3aGWnprxbWsQnQ7AkT+HhWGLNzE/4fe
+       EpTnaHM8MxnxoF3YiKNMNtbbCDnOSxzhDAqs0eVhqGTQPPzyGI78oPwsD1f9YSQ7jnYGJrIR
+       Yx60jPd3W2SUENis06SzGxOpj16GjeoV1uOV1J/X1/nsZ9+r859vocsiWb4faZ7TWy6JH2d9
+       IMvrF7/2hsjr8LyaW3Tr6gOYu9bdYparli9/1NfJGkWWpntOHoeLXweUmf1sANLcSvGDbpAo
+       I2XN8c8iVzfGERdJc62WBJzP2+Wuujspitf1oS66IYBm30uMrz4jGfEcmWq0N53LtxUfOoyz
+       TrG7OYx1zDpkb7jSGaQ+sCVmnY046gRns/ZYqhuV7s0De9+Cjl+xp52uJbNfc4Chx1bzDra+
+       ZUoviWK9YGVdm8oOF8392PsY2kVUrtatXJX7oj4jdQa+jG50I3e5WW13l+NJ101M9yx0c4m6
+       rrVqjtdb113y8jv/tS1D2c0mV4m/4zkSFcWVYhzds5O71mSbGX4aOjtr3xS9m54N3BS7sNIt
+       E3/EV/XVVfrRdGNzm5zx5gfdD7MV89HRUffbbiF2yVN8Ou9C0s05m+w3z2/8//Rnn5HZcAxr
+       yfJbOQh1Mexi3vq4m+bmsl+1jAHXmQDH5JXyepRperO/eEhnJ8lsQ9j7wK47quQYCvlYrWuV
+       QwHpbSmRkdxWN4eNlPz48SN7LY4Ea9LQMAeRrZfGlr0LZhOP2cDxzAPV1PG66gYgQ79Ze3LK
+       +mFWdrApAXT7yp7Oe3DUC8bFEIXaXEMW+0pz09nPlpn5bTlos74WGXVNOEdnmM13fCgm0lSN
+       YqNNgKP8XT+h6xcv3ZMbaYgCysXPrgELL48sRZUxNbLuPfu1Zhu/iXPdBFliK0v2UVre11/H
+       oK1LNufzpsuRqrJrcaKXvBP//vvv8vdIeaVU3ZtL+uzsrPwdNee6/hMJrrtPx3VVV4Oz+UN9
+       lWa35DySWWWqj3PzZi+VHk+z+eluWu12S5lLym41kR+Wy+z//u//mt+c/+zak5oo5/m8L0/Z
+       9zq3HFK34ZotHWzKfawPYzZGyyu29zDWQ3LEKYt9LLdtRv2y5UW9wrJrkbb4Qawtu8HPfo5V
+       1E1YM1RH3iZl75prY5krtsmLZr82pe4+tvJNY/lnc4Jm87Nch7E2qdplMLpkRPl+NVd4MR94
+       or5uz38Nws5+nvq8xb59+1YGm6gXWakuUZ/xfBiVM97cFJG2JQMcTbKbfK9ebdaI6my5iffd
+       u3ev/qqOQ8UmyhhPdXWuycybJ1H3+mmaCax6+cXzq/zd9DJrbu3TeY/dlV7S1Mc/68Z1tllf
+       1dlOcGRVsXj8uK7qx71fXpx0e4018egmx551bordyYFC6usny5+zn50WM+Wxg5GrL5nhbHLG
+       u3qf/nEf1WG+oTZQzSkeybji+mkCHHmBlX82z7X6BJ3PNS+Kmps0B+zoPQjd1zz107wZCC/v
+       uHrT8fcmYwPBNSHAMW3164ihJ3HGxaNodTHvHDHUcrV+6RdPiMwcS61yw6HLllG3ehjaVr5m
+       nM0ryeMlj8ige0M5Zc29taM6nj10oG7Nx+JesnK169cmf/zxx3mnP3a3Qjibn9Pydzf8kc1z
+       4sjXZdnydjoORf3gb15ZlxM3mxcZ848S4JjNH66luHP6c4SCIj8pJ6sugGbj+dmvBeJMfHNy
+       85opl+tILG82HPw6//XlXjfKluHCOpY00s52eU0soE5YlmPi6NXVqiVX++PHj/L3yFwhJcDR
+       qK/w7tvduL/+7//+r5z6eg2lzVeKX9axvNjc4U9l8ebNcNPjqXsx5zWwdnvs8beydRm0W3nO
+       4nVWP/KT8Zpkt6axpKYVyTKHMa7MerCDWKRULbLcX7/IHWmRN6KpDMdZi+NQH8+8NuLOLRlO
+       9vEeOkS9mVU2cCsXfNPIa/wEzX52pqhDObX6nh2/ErrnLgcCLFuM/Woa/tQ/bk5ZpjYWrzPM
+       lTQZVBy3+rA0N8XyzTfqOFrvo+HFXP4zauZ1vas8d+JndXQjExCliHo0q7KV+sLu5niv5kNB
+       lcy8eTu9xuVXv0uvN93UP/PWjr0oV85Kj+8m9hTbbQ5IXCol0xhvg9YdCWs2f6jlmD6zap6m
+       euvl7948J45bXPnjnRQ21910ntDy4VDL2SFLnvFsqlw20dt6YmgNxcIZtVY6xd1nU/P6pCmE
+       5G7mebwzV77qRkaaZfMg5NAtva956sQ0A+LkCYr/l1tmvacqXDcCHNNW6pAHo7OfRl6f79zi
+       9yNdc+PhlCMkZeZ462d78njc7rTZbSpvBUdSWNqKZ0l9pHg69NX4M6yuXS9fQOwqfTryyTE+
+       8sgmohLbtNaOp1c3uFOGt0xDTRCzhFdKliWWkQ0pe1tknFdtUOvGpSU2Mfu1TNMt3Ddxt3pt
+       JZH1Ull76Sb+wXwA86wAjMTyeuMj3a1EgWzohopdq1+V9P5mJXWNq7dskQWaHDt2k7HiVlIf
+       ot73zJGSP//8M0doqw91ncI470MtleJnOY79rFOJrU/E0IRHd+bTNpfDNZ4brKRkRCMhgNiv
+       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
+       MKtkEv+FyZoAAAAASUVORK5CYII=
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><text:soft-page-break/></text:p>
+   <text:p text:style-name="P11"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T23">In Java, an interface cannot extend or implement a class. An interface is a contract that defines a set of method signatures, and a class can implement that interface by providing an implementation for those methods.</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"/></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">SimpleJpaRepository</text:span></text:span><text:span text:style-name="T3"> is a class, not an interface. It is a part of Spring Data JPA and is provided as a convenience implementation of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> interface.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> interface is an extension of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">PagingAndSortingRepository</text:span></text:span><text:span text:style-name="T3"> interface, which in turn is an extension of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> interface. The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> interface provides a set of basic CRUD operations for an entity, such as save, find, delete, and so on.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">SimpleJpaRepository</text:span></text:span><text:span text:style-name="T3"> is an implementation of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> interface that provides a simple and efficient way to perform CRUD operations on an entity. It contains methods like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">save</text:span></text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">findById</text:span></text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">delete</text:span></text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">findAll</text:span></text:span><text:span text:style-name="T3"> etc. that you can use to perform the basic CRUD operations on an entity.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">When you create a new repository interface that extends </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3">, you can define custom methods with custom queries, but the basic CRUD operations are </text:span><text:soft-page-break/><text:span text:style-name="T3">already provided by the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3">. However, if you want to customize the basic CRUD operations or add additional functionality, you can create a custom implementation that extends </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">SimpleJpaRepository</text:span></text:span><text:span text:style-name="T3">.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">In summary, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">SimpleJpaRepository</text:span></text:span><text:span text:style-name="T3"> is a concrete class that implements the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> interface, providing a simple and efficient way to perform CRUD operations on an entity.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. S</text:span>how me the default code of simplejparepository ?</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">I apologize, but I am unable to show you the default code of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">SimpleJpaRepository</text:span></text:span><text:span text:style-name="T3"> as it is a part of the Spring Data JPA library and is not publicly available. The source code for Spring Data JPA is not publicly available, but you can see the Javadocs for the class here: </text:span><text:a xlink:type="simple" xlink:href="https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/support/SimpleJpaRepository.html" office:target-frame-name="_new" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/support/SimpleJpaRepository.html</text:span></text:a></text:p>
+   <text:p text:style-name="P8">However, I can give you an idea of what the class looks like and what methods it provides.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">SimpleJpaRepository</text:span></text:span><text:span text:style-name="T3"> is a concrete class that implements the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> interface, providing a simple and efficient way to perform CRUD operations on an entity. It contains methods like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">save</text:span></text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">findById</text:span></text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">delete</text:span></text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">findAll</text:span></text:span><text:span text:style-name="T3"> etc.</text:span></text:p>
+   <text:p text:style-name="P8">Here&apos;s an example of what the class might look like:</text:p>
+   <text:p text:style-name="P1">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">public class SimpleJpaRepository&lt;T, ID extends Serializable&gt; implements JpaRepository&lt;T, ID&gt; {</text:span></text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>private final JpaEntityInformation&lt;T, ID&gt; entityInformation;</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>private final EntityManager em;</text:span></text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>public SimpleJpaRepository(JpaEntityInformation&lt;T, ID&gt; entityInformation, EntityManager entityManager) {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>this.entityInformation = entityInformation;</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>this.em = entityManager;</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>@Override</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>public T findById(ID id) {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>return em.find(entityInformation.getJavaType(), id);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>// Other CRUD operations like save, delete, findAll etc.</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">}</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">As you can see the class is taking two parameters </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">T</text:span></text:span><text:span text:style-name="T3"> which is the entity you want to perform CRUD operations and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">ID</text:span></text:span><text:span text:style-name="T3"> which is the primary key of the entity. It&apos;s using JPA&apos;s </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">EntityManager</text:span></text:span><text:span text:style-name="T3"> to perform CRUD operations.</text:span></text:p>
+   <text:p text:style-name="P8">This is just an example of what the class might look like, but the actual implementation may vary depending on the version of Spring Data JPA and other factors.</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. C</text:span>an we use crud repository in the project where jpa respository has been used or not ?</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Yes, you can use both </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> in the same project.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> is a Spring Data interface that provides basic CRUD operations for an entity, such as save, find, delete, and so on.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> is an extension of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> that provides additional functionality specific to JPA, such as support for pagination and sorting.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">When you create a repository interface that extends </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3">, it already includes all the methods provided by </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3">. So if you are using JPA, it&apos;s recommended to use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> as it has more features, but if you don&apos;t need the additional features provided by JPA, you can use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3">.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">For example, in your project, you can have a repository interface that extends </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> for one entity and another repository interface that extends </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> for another entity.</text:span></text:p>
+   <text:p text:style-name="P1">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">public interface UserRepository extends JpaRepository&lt;User, Long&gt; {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>// custom methods</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">}</text:span></text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">public interface ProductRepository extends CrudRepository&lt;Product, Long&gt; {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>// custom methods</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">}</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">In summary, you can use both </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> in the same project, it depends on the use-case and the features that you need to use.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. C</text:span>an we use custom query methods in crudrepository or not ?</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Yes, you can use custom query methods in a repository that extends </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3">.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> is a Spring Data interface that provides basic CRUD operations for an entity, such as save, find, delete, and so on. It doesn&apos;t provide any specific support for custom queries, but you can still define custom methods in your repository interface that use the Spring Data query creation mechanism.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Spring Data provides a set of keywords that you can use to define custom methods, such as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">findBy</text:span></text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">And</text:span></text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Or</text:span></text:span><text:span text:style-name="T3"> etc. These keywords are used to automatically generate the appropriate query based on the method name.</text:span></text:p>
+   <text:p text:style-name="P8">For example, you can define a custom query method like this:</text:p>
+   <text:p text:style-name="P1">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">public interface ProductRepository extends CrudRepository&lt;Product, Long&gt; {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>List&lt;Product&gt; findByName(String name);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">}</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">In this example, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">findByName</text:span></text:span><text:span text:style-name="T3"> is a custom query method that will be automatically implemented by Spring Data. The generated SQL statement will be like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">SELECT * FROM Product WHERE name = ?</text:span></text:span><text:span text:style-name="T3">.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">You can also use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">@Query</text:span></text:span><text:span text:style-name="T3"> annotation to define custom queries and specify the exact SQL statement that should be executed by the method.</text:span></text:p>
+   <text:p text:style-name="P1">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">public interface ProductRepository extends CrudRepository&lt;Product, Long&gt; {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>@Query(&quot;SELECT p FROM Product p WHERE p.price &lt;= :price&quot;)</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>List&lt;Product&gt; findByPriceLessThanEqual(@Param(&quot;price&quot;) double price);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">}</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Therefore, you can use custom query methods in a repository that extends </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3">, by using Spring Data&apos;s query creation mechanism (e.g. keyword based method, or </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">@Query</text:span></text:span><text:span text:style-name="T3"> annotation) and you can use these custom methods to query the database.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. T</text:span>hen whats the difference between jpa repository and crud repository ??</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">The main difference between </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> is that </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> is an extension of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> that provides additional functionality specific to JPA, while </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> provides basic CRUD operations for an entity.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> is a Spring Data interface that provides basic CRUD operations for an entity, such as save, find, delete, and so on. It does not provide any specific support for pagination, sorting or any other advanced features. It is a general-purpose interface that can be used with any kind of persistence technology.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> is an extension of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> that provides additional functionality specific to JPA, such as support for pagination and sorting. It also includes methods for flushing the persistence context and deleting records in a batch. Additionally, It automatically maps the entity to the corresponding table in the database and creates the appropriate SQL statements to perform the CRUD operations.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">In summary, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> is a more general-purpose interface that provides basic CRUD operations, while </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> is specifically designed to work with JPA and provides additional functionality such as pagination and sorting.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">When you use JPA in your project, it&apos;s recommended to use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> as it has more features and it&apos;s more in-tune with JPA, but if you don&apos;t need the additional features provided by JPA, you can use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3">.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. T</text:span>hen can we use crudrepository instead of jparepository in a project right if we only need basic functionality ?</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Yes, you can use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> instead of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> in a project if you only need the basic CRUD functionality and don&apos;t need the additional features provided by JPA.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> is a more general-purpose interface that provides basic CRUD operations, while </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> is specifically designed to work with JPA and provides additional functionality such as pagination and sorting.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">If you don&apos;t need the additional features provided by JPA, such as pagination and sorting, then you can use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> as it provides the basic CRUD operations that you need, and it&apos;s a more simple and light-weight option.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">It&apos;s also worth noting that </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> can be used with any kind of persistence technology, not just JPA, so if you plan to use a different persistence technology in the future, you won&apos;t have to change your repository interfaces.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">In summary, if you only need basic CRUD functionality, it&apos;s perfectly fine to use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">CrudRepository</text:span></text:span><text:span text:style-name="T3"> instead of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3">, it will provide the basic CRUD operations that you need and it&apos;s a more simple and light-weight option.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. W</text:span>hy pagination and sorting is needed and how to use that in jparepository ??</text:p>
+   <text:p text:style-name="P8">Pagination and sorting are needed when you want to retrieve a large amount of data <text:soft-page-break/>from the database, but you don&apos;t want to load all the data into memory at once. Instead, you want to retrieve the data in small chunks, called pages, and display them to the user one page at a time.</text:p>
+   <text:p text:style-name="P8">Sorting is needed when you want to order the data that is retrieved from the database based on a specific field. This can be useful for displaying data in a particular order to the user or for searching for specific data more efficiently.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Both pagination and sorting can be easily implemented using </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3">.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Pagination can be achieved by using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Page</text:span></text:span><text:span text:style-name="T3"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Pageable</text:span></text:span><text:span text:style-name="T3"> interfaces. You can pass an instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Pageable</text:span></text:span><text:span text:style-name="T3"> as a method parameter to retrieve a specific page of data. For example:</text:span></text:p>
+   <text:p text:style-name="P1">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Page&lt;User&gt; findAll(Pageable pageable);</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Sorting can be achieved by using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Sort</text:span></text:span><text:span text:style-name="T3"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Sort.Order</text:span></text:span><text:span text:style-name="T3"> interfaces. You can pass an instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Sort</text:span></text:span><text:span text:style-name="T3"> as a method parameter to sort the data that is retrieved from the database. For example:</text:span></text:p>
+   <text:p text:style-name="P1">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">List&lt;User&gt; findAll(Sort sort);</text:span></text:span></text:p>
+   <text:p text:style-name="P8">You can also use both pagination and sorting together, for example:</text:p>
+   <text:p text:style-name="P1">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Page&lt;User&gt; findAllByFirstName(String firstName, Pageable pageable);</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">In summary, pagination and sorting are useful when working with large amount of data, to retrieve data in small chunks and order the data based on a specific field. </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">JpaRepository</text:span></text:span><text:span text:style-name="T3"> provides easy to use interfaces and methods for achieving pagination and sorting, you can use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Pageable</text:span></text:span><text:span text:style-name="T3"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Sort</text:span></text:span><text:span text:style-name="T3"> interfaces to implement pagination and sorting respectively.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. D</text:span>o you know in certain scenario our spring boot automatically creates a table based on entity or model class in our database so we don;t have to manually create database table in our database, can you tell me the scenerio, what needs to be done in springboot app to get that functionality out of box ??</text:p>
+   <text:p text:style-name="P8">Yes, in certain scenarios, Spring Boot can automatically create a table based on an entity or model class in the database, without the need for manual table creation. This functionality is provided by the Hibernate framework, which is the default JPA implementation used by Spring Boot.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><text:span text:style-name="T3">To use this functionality, you need to configure Hibernate to create the table automatically by setting the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">spring.jpa.hibernate.ddl-auto</text:span></text:span><text:span text:style-name="T3"> property in your application&apos;s configuration file (e.g. </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">application.properties</text:span></text:span><text:span text:style-name="T3"> or </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">application.yml</text:span></text:span><text:span text:style-name="T3">).</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">The possible values for the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">spring.jpa.hibernate.ddl-auto</text:span></text:span><text:span text:style-name="T3"> property are:</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">create</text:span></text:span><text:span text:style-name="T3">: Hibernate will create the table when the application starts and drop it when the application stops. This is useful for development and testing, but not recommended for production.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">create-drop</text:span></text:span><text:span text:style-name="T3">: Hibernate will create the table when the application starts and drop it when the application stops. This is useful for development and testing, but not recommended for production.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">update</text:span></text:span><text:span text:style-name="T3">: Hibernate will update the table schema when the application starts, but it will not drop any existing data. This is useful for development and testing, but not recommended for production.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">validate</text:span></text:span><text:span text:style-name="T3">: Hibernate will validate the table schema when the application starts, but it will not create or update the table. This is the default value and is recommended for production.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">For example, if you want to create the table automatically when the application starts and drop it when the application stops, you can set the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">spring.jpa.hibernate.ddl-auto</text:span></text:span><text:span text:style-name="T3"> property to </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">create</text:span></text:span><text:span text:style-name="T3"> in your </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">application.properties</text:span></text:span><text:span text:style-name="T3"> file:</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text">Copy code</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T7">Q. C</text:span>omplete the example .</text:p>
+   <text:p text:style-name="P1">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">spring.jpa.hibernate.ddl-auto=create</text:span></text:span></text:p>
+   <text:p text:style-name="P8">Please note that this is only recommended for development and testing environments and not for production environments.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">You also need to make sure that you have the appropriate dependencies in your project such as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">spring-boot-starter-data-jpa</text:span></text:span><text:span text:style-name="T3"> to use JPA and hibernate as well as a database connector such as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">mysql-connector-java</text:span></text:span><text:span text:style-name="T3"> for MySQL database.</text:span></text:p>
+   <text:p text:style-name="P8">You also need to configure the database connection properties such as url, username, password in application.properties file.</text:p>
+   <text:p text:style-name="P8">It is also worth mentioning that this feature is only available when using JPA and Hibernate as the persistence technology, and it only applies to the table creation, not data insertion, so you need to take care of that separately by writing code or using some other approaches like flyway or liquibase.</text:p>
+   <text:p text:style-name="P7"><text:soft-page-break/><text:span text:style-name="T7">Q. I</text:span>s there a shorter way to write tostring method for such field then ? </text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">Yes, there is a shorter way to write the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">toString()</text:span></text:span><text:span text:style-name="T5"> method for a class with multiple fields.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">One way to achieve this is by using the Java&apos;s built-in </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Objects.toString()</text:span></text:span><text:span text:style-name="T5"> method. This method returns a string representation of an object, including the values of all non-static, non-transient fields.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">Here&apos;s an example of how you can use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Objects.toString()</text:span></text:span><text:span text:style-name="T5"> method to write a shorter </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">toString()</text:span></text:span><text:span text:style-name="T5"> method for a class with 7 fields:</text:span></text:p>
+   <text:p text:style-name="P2">Copy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">import java.util.Objects;</text:span></text:span></text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">public class MyClass {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:s text:c="4"/>private int field1;</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:s text:c="4"/>private String field2;</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:s text:c="4"/>private double field3;</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:s text:c="4"/>private boolean field4;</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:s text:c="4"/>private char field5;</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:s text:c="4"/>private Object field6;</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:s text:c="4"/>private List&lt;String&gt; field7;</text:span></text:span></text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:s text:c="4"/>// constructor and getters and setters</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:s text:c="4"/>@Override</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:s text:c="4"/>public String toString() {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:s text:c="8"/>return Objects.toString(this);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">}</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">Another way you can do this is by using libraries like Lombok, it allows you to generate the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">toString()</text:span></text:span><text:span text:style-name="T5"> method, by using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">@ToString</text:span></text:span><text:span text:style-name="T5"> annotation, This will automatically generate the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">toString()</text:span></text:span><text:span text:style-name="T5"> method for you, and also you can use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">@Data</text:span></text:span><text:span text:style-name="T5"> annotation which will generate the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">toString()</text:span></text:span><text:span text:style-name="T5"> method, getters and setters for all fields.</text:span></text:p>
+   <text:p text:style-name="P9">Please let me know if you have any other question, I will be happy to help.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10"><text:soft-page-break/><text:span text:style-name="T7">Q. W</text:span>hat is this Objects.toString(this); doing ?</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Objects.toString(this)</text:span></text:span><text:span text:style-name="T3"> is a static utility method of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">java.util.Objects</text:span></text:span><text:span text:style-name="T3"> class that returns a string representation of an object, including the values of all non-static, non-transient fields.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">When the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Objects.toString(this)</text:span></text:span><text:span text:style-name="T3"> method is called on an object, it internally uses the Java Reflection API to examine the object&apos;s class and all its fields (both inherited and declared), and then returns a string representation of the object, which includes the name of the class and the values of all non-static, non-transient fields.</text:span></text:p>
+   <text:p text:style-name="P8">The returned string is in the format of &quot;ClassName{fieldName1=fieldValue1, fieldName2=fieldValue2, ...}&quot;.</text:p>
+   <text:p text:style-name="P8">It is a convenient way to generate a string representation of an object, especially when the class has many fields, and you don&apos;t want to write a lot of code to concatenate all the field values into a string.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Please note that, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Objects.toString()</text:span></text:span><text:span text:style-name="T3"> method is only available on Java 7 or later.</text:span></text:p>
+   <text:p text:style-name="P8">Please let me know if you have any other question, I will be happy to help.</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P3"/>
+  </office:text>
+ </office:body>
+</office:document>
