@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:date>2023-02-01T13:50:00.185834269</dc:date><meta:editing-duration>PT6M33S</meta:editing-duration><meta:editing-cycles>4</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="34" meta:object-count="0" meta:page-count="14" meta:paragraph-count="318" meta:word-count="4315" meta:character-count="27548" meta:non-whitespace-character-count="22491"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">400235</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">37343</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15515</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">10171</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">410598</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">400235</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">37342</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">415749</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">88</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1345193</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1330666</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Mono CJK SC" svg:font-family="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:language="zxx" fo:country="none" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Noto Sans Mono CJK SC" style:font-family-asian="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Source_20_Text" style:display-name="Source Text" style:family="text">
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Noto Sans Mono CJK SC" style:font-family-asian="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false"/>
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false" fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
+   <style:text-properties loext:padding="0in" loext:border="none"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false" fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false"/>
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
+   <style:text-properties loext:padding="0in" loext:border="none"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="top" style:vertical-rel="baseline" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.2961in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.7882in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.2807in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.7728in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.2654in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.7579in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.25in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.7425in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.2346in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.7272in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.2961in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.7882in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.2807in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.7728in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.2654in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.7579in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.25in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.7425in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.2346in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.7272in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.2961in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.7882in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.2807in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.7728in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.2654in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.7579in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.25in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.7425in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.2346in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.7272in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.2961in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.7882in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.2807in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.7728in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.2654in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.7579in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.25in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.7425in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.2346in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.7272in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P3">what does static mean in java</text:p>
+   <text:p text:style-name="P2">In Java, the term &quot;static&quot; refers to a member of a class that is shared across all instances of that class, as opposed to being unique to a particular instance. This means that a static member is not tied to a specific object, and can be accessed directly through the class name, without the need to create an instance of the class. Static members include variables, methods and nested classes.</text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="0"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="1"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">can we instantiate static class ?</text:p>
+   <text:p text:style-name="P2">A static class in Java cannot be instantiated. A static class is a class that can only contain static members and is typically used for utility classes or for classes that don&apos;t need to be instantiated. It is not possible to create an instance of a static class using the &quot;new&quot; keyword, because a static class is not an object. Instead, the members of a static class are accessed directly through the class name.</text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image3" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="2"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image4" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="3"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">can we access members of outer class from inner static class ?</text:p>
+   <text:p text:style-name="P2">Yes, it is possible to access members of an outer class from an inner static class in Java. However, because a static class is not associated with an instance of the outer class, it cannot directly access non-static members of the outer class.</text:p>
+   <text:p text:style-name="P2">To access non-static members of the outer class from a static inner class, you would need to pass an instance of the outer class as a parameter to a method or constructor of the inner class, and then access the non-static members through that instance.</text:p>
+   <text:p text:style-name="P2">On the other hand, members of outer class (static or non-static) can be accessed directly by inner static class without any issue.</text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image5" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="4"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image6" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="5"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">show me through an example</text:p>
+   <text:p text:style-name="P2">Sure, here&apos;s an example of how you can access non-static members of an outer class from a static inner class:</text:p>
+   <text:p text:style-name="P1">javaCopy code</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">class OuterClass {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>int x;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>static int y;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>static class InnerStaticClass {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>void accessOuterMembers(OuterClass outer) {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>System.out.println(&quot;Accessing non-static member x: &quot; + outer.x);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>System.out.println(&quot;Accessing static member y: &quot; + y);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class Main {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>OuterClass outer = new OuterClass();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>outer.x = 10;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>OuterClass.y = 20;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>OuterClass.InnerStaticClass inner = new OuterClass.InnerStaticClass();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>inner.accessOuterMembers(outer);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">In this example, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1"> has a non-static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> and a static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">y</text:span></text:span><text:span text:style-name="T1">. The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">InnerStaticClass</text:span></text:span><text:span text:style-name="T1"> is a static inner class, which has a method </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">accessOuterMembers</text:span></text:span><text:span text:style-name="T1"> that takes an instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1"> as a parameter. This method is able to access both the non-static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> and the static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">y</text:span></text:span><text:span text:style-name="T1"> of the outer class, by using the passed instance and the class name respectively. In the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">main</text:span></text:span><text:span text:style-name="T1"> method, an instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1"> is created, and its non-static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> is assigned a value of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">10</text:span></text:span><text:span text:style-name="T1">, and static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">y</text:span></text:span><text:span text:style-name="T1"> is assigned a value of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">20</text:span></text:span><text:span text:style-name="T1">. Then, an instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">InnerStaticClass</text:span></text:span><text:span text:style-name="T1"> is created, and the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">accessOuterMembers</text:span></text:span><text:span text:style-name="T1"> method is called passing the instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1"> as a parameter. This will print the values of x and y.</text:span></text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image7" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="6"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image8" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="7"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">how do u access using constructor show me that too</text:p>
+   <text:p text:style-name="P2">Here&apos;s an example of how you can access non-static members of an outer class from a static inner class using a constructor:</text:p>
+   <text:p text:style-name="P1">javaCopy code</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">class OuterClass {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>int x;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>static int y;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>static class InnerStaticClass {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>int x;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>InnerStaticClass(OuterClass outer) {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>this.x = outer.x;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class Main {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>OuterClass outer = new OuterClass();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>outer.x = 10;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>OuterClass.y = 20;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>OuterClass.InnerStaticClass inner = new OuterClass.InnerStaticClass(outer);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>System.out.println(&quot;x of outer class: &quot; + outer.x);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>System.out.println(&quot;x of inner class: &quot; + inner.x);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">In this example, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1"> has a non-static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> and a static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">y</text:span></text:span><text:span text:style-name="T1">. The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">InnerStaticClass</text:span></text:span><text:span text:style-name="T1"> is a static inner class which has a constructor that takes an instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1"> as a parameter. In the constructor, the non-static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> of the outer class is accessed through the passed instance and it is assigned to the non-static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> of the inner class. In the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">main</text:span></text:span><text:span text:style-name="T1"> method, an instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1"> is created, and its non-static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> is assigned a value of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">10</text:span></text:span><text:span text:style-name="T1">, and static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">y</text:span></text:span><text:span text:style-name="T1"> is assigned a value of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">20</text:span></text:span><text:span text:style-name="T1">. Then, an instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">InnerStaticClass</text:span></text:span><text:span text:style-name="T1"> is created by passing the instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1"> to the constructor. This will assign the value of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> of outer class to the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> of inner class and will print the values of x of outer and inner class.</text:span></text:p>
+   <text:p text:style-name="P2">In this way inner static class can access non-static members of outer class via constructor.</text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image9" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="8"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image10" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="9"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">now if inner class is also non static then how do u access members of out non static class ?</text:p>
+   <text:p text:style-name="P2">When the inner class is non-static, it is also known as an inner non-static class or simply an inner class. An inner non-static class has an implicit reference to an instance of its outer class, so it can directly access both static and non-static members of the outer class. Here&apos;s an example:</text:p>
+   <text:p text:style-name="P1">csharpCopy code</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">class OuterClass {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>int x;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>static int y;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>class InnerNonStaticClass {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>void accessOuterMembers() {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>System.out.println(&quot;Accessing non-static member x: &quot; + x);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>System.out.println(&quot;Accessing static member y: &quot; + y);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class Main {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>OuterClass outer = new OuterClass();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>outer.x = 10;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>OuterClass.y = 20;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>OuterClass.InnerNonStaticClass inner = outer.new InnerNonStaticClass();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>inner.accessOuterMembers();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">In this example, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1"> has a non-static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> and a static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">y</text:span></text:span><text:span text:style-name="T1">. The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">InnerNonStaticClass</text:span></text:span><text:span text:style-name="T1"> is an inner non-static class, which has a method </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">accessOuterMembers</text:span></text:span><text:span text:style-name="T1"> that can directly access both the non-static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> and the static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">y</text:span></text:span><text:span text:style-name="T1"> of the outer class, without the need of any reference or parameter. In the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">main</text:span></text:span><text:span text:style-name="T1"> method, an instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1"> is created, and its non-static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> is assigned a value of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">10</text:span></text:span><text:span text:style-name="T1">, and static member </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">y</text:span></text:span><text:span text:style-name="T1"> is assigned a value of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">20</text:span></text:span><text:span text:style-name="T1">. Then, an instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">InnerNonStaticClass</text:span></text:span><text:span text:style-name="T1"> is created by using the keyword </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new</text:span></text:span><text:span text:style-name="T1"> and passing the instance of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1"> using dot operator, and the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">accessOuterMembers</text:span></text:span><text:span text:style-name="T1"> method is called This will print the values of x and y.</text:span></text:p>
+   <text:p text:style-name="P2">In this way inner non-static class can access both static and non-static members of outer class directly without any parameter or reference.</text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image11" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="10"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image12" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="11"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">what is this outer.new InnerNonStaticClass(); ?</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">outer.new InnerNonStaticClass();</text:span></text:span><text:span text:style-name="T1"> is a way of creating an instance of the inner non-static class </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">InnerNonStaticClass</text:span></text:span><text:span text:style-name="T1"> and associating it with an instance of the outer class </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new</text:span></text:span><text:span text:style-name="T1"> keyword is used to create a new instance of a class, and in this case it&apos;s used to create an instance of the inner non-static class </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">InnerNonStaticClass</text:span></text:span><text:span text:style-name="T1">. The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">outer</text:span></text:span><text:span text:style-name="T1"> variable, which is an instance of the outer class </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterClass</text:span></text:span><text:span text:style-name="T1">, is used to specify the association between the inner class instance and an outer class instance.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new InnerNonStaticClass()</text:span></text:span><text:span text:style-name="T1"> creates an instance of the InnerNonStaticClass but it is not associated with any instance of outer class, so to access non-static members of outer class it needs to be associated with an instance of outer class, that&apos;s why </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">outer.new InnerNonStaticClass()</text:span></text:span><text:span text:style-name="T1"> is used.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">In other words, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">outer.new InnerNonStaticClass();</text:span></text:span><text:span text:style-name="T1"> creates an instance of the inner class and associates it with the outer class instance </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">outer</text:span></text:span><text:span text:style-name="T1">, so that it can access the non-static members of the outer class using the implicit reference to the outer class instance.</text:span></text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image13" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="12"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image14" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="13"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">can&apos;t we use new OuterClass.InnerStaticClass() instead of that ?</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">No, you cannot use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new OuterClass.InnerStaticClass()</text:span></text:span><text:span text:style-name="T1"> to create an instance of a static inner class, because a static inner class is not associated with an instance of its outer class. A static inner class is a class that is nested within another class, but it does not have a reference to an </text:span><text:soft-page-break/><text:span text:style-name="T1">instance of the outer class, it is not bound to an object.</text:span></text:p>
+   <text:p text:style-name="P2">As you already know, a static inner class can only contain static members, and is typically used for utility classes or for classes that don&apos;t need to be instantiated. It is not possible to create an instance of a static class using the &quot;new&quot; keyword, because a static class is not an object. Instead, the members of a static class are accessed directly through the class name.</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">In order to create an instance of a static inner class, you need to use the class name followed by </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new</text:span></text:span><text:span text:style-name="T1"> keyword, like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new OuterClass.InnerStaticClass()</text:span></text:span><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">So to sum up, you can use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new OuterClass.InnerStaticClass()</text:span></text:span><text:span text:style-name="T1"> to create an instance of a static inner class as it doesn&apos;t have any association with outer class, but you can&apos;t use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new OuterClass.InnerNonStaticClass()</text:span></text:span><text:span text:style-name="T1"> to create an instance of a non-static inner class as it has an association with outer class and you need to pass an instance of outer class using </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">outer.new InnerNonStaticClass()</text:span></text:span><text:span text:style-name="T1"> so that it can access non-static members of outer class.</text:span></text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image15" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="14"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image16" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="15"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">can&apos;t we use new OuterClass.InnerNonStaticClass() instead of that ? </text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">No, you cannot use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new OuterClass.InnerNonStaticClass()</text:span></text:span><text:span text:style-name="T1"> to create an instance of a non-static inner class. As I explained before, a non-static inner class has an implicit reference to an instance of its outer class, so it needs to be associated with an instance of the outer class to access non-static members of the outer class.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">You can&apos;t use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new OuterClass.InnerNonStaticClass()</text:span></text:span><text:span text:style-name="T1"> to create an instance of a non-static inner class, because the class name alone does not provide the necessary association to an instance of the outer class.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">To create an instance of a non-static inner class, you need to use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new</text:span></text:span><text:span text:style-name="T1"> keyword in combination with an instance of the outer class and the class name, like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">outer.new InnerNonStaticClass()</text:span></text:span><text:span text:style-name="T1">. This creates an instance of the inner class and associates it with the outer class instance </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">outer</text:span></text:span><text:span text:style-name="T1">, so that it can access the non-static members of the outer class using the implicit reference to the outer class instance.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">In summary, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new OuterClass.InnerStaticClass()</text:span></text:span><text:span text:style-name="T1"> is correct to create an instance of a static inner class as it doesn&apos;t have any association with outer class, but </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">new OuterClass.InnerNonStaticClass()</text:span></text:span><text:span text:style-name="T1"> is incorrect to create an instance of a non-static inner class as it has an association with outer class and you need to pass an instance of outer class using </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">outer.new InnerNonStaticClass()</text:span></text:span><text:span text:style-name="T1"> so that it can access non-static members of outer class.</text:span></text:p>
+   <text:p text:style-name="P8"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Image17" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="16"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image18" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="17"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">what if both inner and outer class are static then how to access members of outer from inner ?</text:p>
+   <text:p text:style-name="P2">If both the inner and outer class are static, they are both at the same level of scope, and can directly access each other&apos;s static members without any association. You can access the static members of outer class from inner class directly using the class name followed by dot operator and the member name.</text:p>
+   <text:p text:style-name="P2">Here&apos;s an example:</text:p>
+   <text:p text:style-name="P1">csharpCopy code</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">static class OuterStaticClass {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>static int x;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>static int y;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">static class InnerStaticClass {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>static void accessOuterMembers() {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>System.out.println(&quot;Accessing static member x: &quot; + OuterStaticClass.x);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>System.out.println(&quot;Accessing static member y: &quot; + OuterStaticClass.y);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class Main {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>OuterStaticClass.x = 10;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>OuterStaticClass.y = 20;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>InnerStaticClass.accessOuterMembers();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">In this example, both the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterStaticClass</text:span></text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">InnerStaticClass</text:span></text:span><text:span text:style-name="T1"> are static, they both have two static members </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">y</text:span></text:span><text:span text:style-name="T1">. The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">accessOuterMembers</text:span></text:span><text:span text:style-name="T1"> method of the inner class is able to directly access the static members of the outer class using the class name </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">OuterStaticClass</text:span></text:span><text:span text:style-name="T1"> followed by dot operator and the name of the member. In the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">main</text:span></text:span><text:span text:style-name="T1"> method, the static members </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">x</text:span></text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">y</text:span></text:span><text:span text:style-name="T1"> of outer class are assigned values </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">10</text:span></text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">20</text:span></text:span><text:span text:style-name="T1"> respectively, and then the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">accessOuterMembers</text:span></text:span><text:span text:style-name="T1"> method of inner class is called which will print the values of x and y of outer class.</text:span></text:p>
+   <text:p text:style-name="P2">As both outer and inner classes are static, they don&apos;t have any association with each other and you can access the static members of both classes directly using the class name and dot operator.</text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image19" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="18"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image20" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="19"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">how to access non static members of static out class from static inner class ?</text:p>
+   <text:p text:style-name="P2">It is not possible to access non-static members of a static outer class from a static inner class <text:soft-page-break/>because a static class cannot contain non-static members.</text:p>
+   <text:p text:style-name="P2">A static class can only contain static members, and it is typically used for utility classes or for classes that don&apos;t need to be instantiated. It is not possible to create an instance of a static class, and a static class cannot have a reference to an instance of its outer class.</text:p>
+   <text:p text:style-name="P2">Since a static class cannot contain non-static members, and it cannot have a reference to an instance of its outer class, it is not possible to access non-static members of a static outer class from a static inner class.</text:p>
+   <text:p text:style-name="P2">It&apos;s important to note that in order to access non-static members of outer class, inner class should be non-static and have an association with an instance of the outer class, as I explained in previous answers.</text:p>
+   <text:p text:style-name="P2">In conclusion, it is not possible to access non-static members of a static outer class from a static inner class, because it doesn&apos;t have any association with outer class and it can only contain static members.</text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image21" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="20"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image22" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="21"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">can we have non static members i.e variables and members inside static class ??</text:p>
+   <text:p text:style-name="P2">No, it is not possible to have non-static members (instance variables or methods) inside a static class in Java.</text:p>
+   <text:p text:style-name="P2">A static class can only contain static members, such as static variables and methods, and nested classes that are also static. This is because a static class is not associated with an instance of the outer class and it does not have a reference to an instance of the outer class.</text:p>
+   <text:p text:style-name="P2">Non-static members, such as instance variables and methods, are associated with a specific instance of a class and they need a reference to an instance of the class in order to be accessed. Since a static class is not an object, and it does not have a reference to an instance of the outer class, it cannot contain non-static members.</text:p>
+   <text:p text:style-name="P2">If you want to have non-static members in the class, you can define the class as a non-static class (regular class) instead.</text:p>
+   <text:p text:style-name="P2">It&apos;s important to use a static class only when you don&apos;t need to keep any state or have any non-static members, otherwise you should use non-static (regular) class.</text:p>
+   <text:p text:style-name="P3">convert txt to pdf file in java without library</text:p>
+   <text:p text:style-name="P2">In Java, you can convert a text file to a PDF file without using any external libraries by using the built-in Java classes and methods for creating and writing to PDF files.</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">One approach is to use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Document</text:span></text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">PdfWriter</text:span></text:span><text:span text:style-name="T1"> classes from the iText library, which is a </text:span><text:soft-page-break/><text:span text:style-name="T1">free and open-source library for creating and manipulating PDF files in Java.</text:span></text:p>
+   <text:p text:style-name="P2">Here is an example of how to convert a text file to a PDF file using iText:</text:p>
+   <text:p text:style-name="P1">javaCopy code</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import com.itextpdf.text.Document;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import com.itextpdf.text.DocumentException;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import com.itextpdf.text.Paragraph;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import com.itextpdf.text.pdf.PdfWriter;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.File;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.FileInputStream;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.FileOutputStream;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.IOException;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.InputStreamReader;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class TxtToPdf {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) throws IOException, DocumentException {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Input text file</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>FileInputStream textFile = new FileInputStream(&quot;input.txt&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>InputStreamReader reader = new InputStreamReader(textFile);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Output PDF file</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>File pdfFile = new File(&quot;output.pdf&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>FileOutputStream fileOutputStream = new FileOutputStream(pdfFile);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Create a new document</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>Document document = new Document();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>PdfWriter.getInstance(document, fileOutputStream);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>document.open();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Read the text file and add it to the PDF document</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>int data = reader.read();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>while (data != -1) {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>char character = (char) data;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>document.add(new Paragraph(Character.toString(character)));</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>data = reader.read();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Close the document</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>document.close();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>fileOutputStream.close();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P2">This code reads the text from a file named &quot;input.txt&quot; and writes the contents of the file to a new PDF file named &quot;output.pdf&quot;. Please note that this is just an example, you may want to improve the way it reads the input file, handle errors and manage the resources.</text:p>
+   <text:p text:style-name="P8"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Image23" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="22"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image24" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="23"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">do not use library u stupid , donot use itext and get it done.</text:p>
+   <text:p text:style-name="P2">I apologize if my previous response did not meet your expectations. It is not possible to convert a text file to a PDF file in Java without using any external libraries, as the PDF file format is a complex and proprietary format that requires specialized knowledge and tools to create and manipulate.</text:p>
+   <text:p text:style-name="P2">Java does not have built-in support for creating and manipulating PDF files, so it would be necessary to use an external library or tool to perform the conversion. Some open-source libraries like iText or Apache PDFBox can be used for this purpose.</text:p>
+   <text:p text:style-name="P2">Alternatively, you can use an API to convert the text file to PDF.</text:p>
+   <text:p text:style-name="P2">I apologize for any confusion caused. Let me know if you have any other question.</text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image25" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="24"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image26" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="25"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">okay then user buffered reader and while loop over each line </text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">Yes, you can use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">BufferedReader</text:span></text:span><text:span text:style-name="T1"> class in Java to read the text file line by line and then use a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">while</text:span></text:span><text:span text:style-name="T1"> loop to process each line. You can also use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">FileWriter</text:span></text:span><text:span text:style-name="T1"> to write the content of the text file to a new file in pdf format.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">Here is an example of how to convert a text file to a PDF file using </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">BufferedReader</text:span></text:span><text:span text:style-name="T1"> and a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">while</text:span></text:span><text:span text:style-name="T1"> loop:</text:span></text:p>
+   <text:p text:style-name="P1">javaCopy code</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.*;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class TxtToPdf {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) throws IOException {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Input text file</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>File inputFile = new File(&quot;input.txt&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>BufferedReader reader = new BufferedReader(new FileReader(inputFile));</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Output PDF file</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>File outputFile = new File(&quot;output.pdf&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>FileWriter writer = new FileWriter(outputFile);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Read the text file line by line and write to the PDF file</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>String line = reader.readLine();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>while (line != null) {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>writer.write(line);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>writer.write(&quot;\n&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>line = reader.readLine();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/></text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Close the files</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>writer.close();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>reader.close();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P2">Please note that this code only copy the content of the input text file to the new file with pdf extension, but it will not have the real pdf format, it will be a plain text file with pdf extension. Let me know if you have any other question.</text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image27" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="26"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image28" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="27"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">set the format manually using pdfreader son.</text:p>
+   <text:p text:style-name="P2">I apologize for the confusion, you cannot set the format manually to make a plain text file as a pdf file, as pdf is a complex and proprietary format that requires specialized knowledge and tools to create and manipulate.</text:p>
+   <text:p text:style-name="P2">A pdf file is not just a plain text file with a different extension, it contains various objects like text, images, forms and others that are placed in a specific layout and have specific properties.</text:p>
+   <text:p text:style-name="P2">It is necessary to use a library or tool that has the capability to create and manipulate pdf files like iText or Apache PDFBox, or use an API to convert the text file to pdf.</text:p>
+   <text:p text:style-name="P2">I apologize for any confusion caused and please let me know if you have any other questions.</text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image29" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="28"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image30" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="29"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">previously you had used, pdfwriter&apos;s instance to do that by calling page size, page margin and stuffs show me that version of code now .</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">I apologize for any confusion, you are correct that the iText library can be used to create a PDF file and add content to it using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Document</text:span></text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">PdfWriter</text:span></text:span><text:span text:style-name="T1"> classes. Here is an example of how to convert a text file to a PDF file using the iText library, where you can set the page size, margins and font :</text:span></text:p>
+   <text:p text:style-name="P1">javaCopy code</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import com.itextpdf.text.Document;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import com.itextpdf.text.DocumentException;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import com.itextpdf.text.Font;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import com.itextpdf.text.Paragraph;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import com.itextpdf.text.pdf.PdfWriter;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.File;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.FileInputStream;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.FileOutputStream;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.IOException;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.InputStreamReader;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class TxtToPdf {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) throws IOException, DocumentException {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Input text file</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>FileInputStream textFile = new FileInputStream(&quot;input.txt&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>InputStreamReader reader = new InputStreamReader(textFile);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Output PDF file</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>File pdfFile = new File(&quot;output.pdf&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>FileOutputStream fileOutputStream = new FileOutputStream(pdfFile);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Create a new document with page size, margins and font</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>Document document = new Document();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>PdfWriter.getInstance(document, fileOutputStream);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>document.setPageSize(PageSize.A4);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>document.setMargins(36, 72, 108, 180);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>document.setMarginMirroring(false);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>Font font = new Font(Font.FontFamily.HELVETICA, 12, Font.NORMAL);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>document.open();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Read the text file and add it to the PDF document</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>int data = reader.read();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>while (data != -1) {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>char character = (char) data;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>document.add(new Paragraph(Character.toString(character), font));</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>data = reader.read();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Close the document</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>document.close();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>fileOutputStream.close();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P2">Please note that the iText library is a third-party library and it is not part of the standard Java libraries. You will need to download the iText library and add it to your project&apos;s classpath before you can use it. Also you may want to improve the way it reads the input file, handle errors and manage the resources. Please let me know if you have any other questions.</text:p>
+   <text:p text:style-name="P3">how to create ocr library like tesseract</text:p>
+   <text:p text:style-name="P2">Creating an OCR library like Tesseract would likely involve several steps, including:</text:p>
+   <text:list xml:id="list3655669996" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P15">Developing or using existing algorithms for image pre-processing, such as thresholding and image enhancement, to improve the quality of the image to be processed.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P15">Using machine learning techniques to train the OCR engine on a large dataset of images and their corresponding text. This would likely involve using a neural network to recognize <text:soft-page-break/>patterns in the images.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P15">Developing the OCR engine itself, which would involve implementing the algorithms developed in steps 1 and 2 to recognize text in images.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P15">Testing the OCR library on a variety of images and making any necessary adjustments to improve its accuracy.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P2">Keep in mind that OCR is a complex and active field of research, and creating an OCR library like Tesseract would likely require a significant amount of resources, including expertise in image processing, machine learning, and software development.</text:p>
+   <text:p text:style-name="P3">convert image which has letter to texts and store it to .txt file java</text:p>
+   <text:p text:style-name="P2">To convert an image that contains text to a text file in Java, you can use the Tesseract OCR library. This library allows you to recognize text within an image and output it to a string or a text file. Here is an example of how to use Tesseract to convert an image to a text file:</text:p>
+   <text:list xml:id="list2067364306" text:style-name="L2">
+    <text:list-item>
+     <text:p text:style-name="P16">First, you need to install the Tesseract library and add it to your project&apos;s classpath.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P16">Then you can use the following code to convert an image to a text file:</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P1">javaCopy code</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import net.sourceforge.tess4j.ITesseract;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import net.sourceforge.tess4j.Tesseract;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import net.sourceforge.tess4j.TesseractException;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.File;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.io.FileWriter;</text:span></text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class OCR {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>File imageFile = new File(&quot;image.png&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>ITesseract instance = new Tesseract();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>instance.setDatapath(&quot;path/to/tessdata&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>try {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>String result = instance.doOCR(imageFile);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>FileWriter fileWriter = new FileWriter(&quot;text.txt&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>fileWriter.write(result);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>fileWriter.close();</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>System.out.println(&quot;Text written to text.txt&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>} catch (TesseractException | IOException e) {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="12"/>System.err.println(e.getMessage());</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
+   <text:p text:style-name="P2">You need to provide the path of the tessdata folder, you can download it from the official website of tesseract-ocr.</text:p>
+   <text:p text:style-name="P2"><text:soft-page-break/>Please note that OCR is not perfect and the quality of the text recognition will depend on the quality of the image and the font used.</text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image31" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="30"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image32" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="31"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">how to write your own tessereact library </text:p>
+   <text:p text:style-name="P2">Creating your own OCR library similar to Tesseract would be a complex and time-consuming task, as it involves several steps such as image preprocessing, feature extraction, and training machine learning models. Here are some high-level steps that would be involved in creating an OCR library:</text:p>
+   <text:list xml:id="list2007970294" text:style-name="L3">
+    <text:list-item>
+     <text:p text:style-name="P19"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T1">Image Preprocessing:</text:span></text:span><text:span text:style-name="T1"> The first step is to preprocess the input image to improve the quality of the text recognition. This can include tasks such as image binarization, noise reduction, and skew correction.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P19"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T1">Feature Extraction:</text:span></text:span><text:span text:style-name="T1"> Next, you need to extract features from the preprocessed image that can be used to train a machine learning model. This can include features such as edge detection, character segmentation, and character shape features.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P19"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T1">Training:</text:span></text:span><text:span text:style-name="T1"> You will need to train one or more machine learning models to recognize text in the images. This can include training models such as artificial neural networks, support vector machines, or decision trees.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P19"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T1">Evaluation:</text:span></text:span><text:span text:style-name="T1"> After training, you need to evaluate the performance of your OCR model using a dataset of labeled images. You can use metrics such as accuracy, precision, and recall to measure the performance of your model.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P19"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T1">Integration:</text:span></text:span><text:span text:style-name="T1"> Finally, you need to integrate your OCR model into a software library that can be used to recognize text in images. This can include tasks such as creating an API, implementing input/output functionality, and providing support for different image formats.</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P2">As you can see, creating an OCR library would require a significant amount of expertise in image processing, machine learning, and software development, and it could take months or even years to develop a library that is as accurate and robust as Tesseract.</text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image33" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="32"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image34" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="33"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5LdRVoNn6cmAshWGo4hr3vTbHLxVz3iKaBTsCd%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Oaker oOaker</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P4">code to create own ocr library</text:p>
+   <text:p text:style-name="P2">Creating your own OCR library, as I mentioned before, is a complex task that requires expertise in image processing, machine learning, and software development. It would also require a large amount of labeled data to train the model and make it accurate.</text:p>
+   <text:p text:style-name="P2">Here is a high level idea of how one would go about creating an OCR library:</text:p>
+   <text:list xml:id="list1487911363" text:style-name="L4">
+    <text:list-item>
+     <text:p text:style-name="P20"><text:soft-page-break/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T1">Collect and label data:</text:span></text:span><text:span text:style-name="T1"> Collect a large dataset of images that contain text and manually label the text in each image. This dataset will be used to train and evaluate the OCR model.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P20"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T1">Preprocess images:</text:span></text:span><text:span text:style-name="T1"> Preprocess the images to improve the quality of the text recognition. This can include tasks such as image binarization, noise reduction, and skew correction.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P20"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T1">Extract features:</text:span></text:span><text:span text:style-name="T1"> Extract features from the preprocessed images that can be used to train a machine learning model. This can include features such as edge detection, character segmentation, and character shape features.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P20"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T1">Train model:</text:span></text:span><text:span text:style-name="T1"> Train a machine learning model using the labeled data and extracted features. This can include training models such as artificial neural networks, support vector machines, or decision trees.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P20"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T1">Evaluate model:</text:span></text:span><text:span text:style-name="T1"> Evaluate the performance of the model using a dataset of labeled images. You can use metrics such as accuracy, precision, and recall to measure the performance of the model.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P20"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T1">Integration:</text:span></text:span><text:span text:style-name="T1"> Integrate the OCR model into a software library that can be used to recognize text in images. This can include tasks such as creating an API, implementing input/output functionality, and providing support for different image formats.</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P2">This is a high-level overview of the steps involved in creating an OCR library, each step has its own complexities and challenges, and it would require a significant amount of time and resources. There are also pre-trained models available that you can use, such as Tesseract, which can save you a lot of time and resources.</text:p>
+   <text:p text:style-name="Standard"/>
+  </office:text>
+ </office:body>
+</office:document>
